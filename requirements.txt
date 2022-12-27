@@ -1,0 +1,6 @@
+python-dotenv
+Flask
+pymongo[srv]
+flask-restful
+pyjwt
+Flask-JWT-Extended
